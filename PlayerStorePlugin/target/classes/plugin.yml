@@ -1,0 +1,6 @@
+name: PlayerStorePlugin
+version: '1.0-SNAPSHOT'
+main: me.DinisEsteves.playerStorePlugin.PlayerStorePlugin
+api-version: '1.21'
+depend: [Vault, Essentials, PlaceholderAPI]
+
